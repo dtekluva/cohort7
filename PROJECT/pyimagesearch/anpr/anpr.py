@@ -155,3 +155,6 @@ class PyImageSearchANPR:
 		# return a 2-tuple of the OCR'd license plate text along with
 		# the contour associated with the license plate region
 		return (lpText, lpCnt)
+
+
+print('done')
